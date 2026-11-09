@@ -1,0 +1,6 @@
+{
+  "appId": "com.signaturebreeze.quotation",
+  "appName": "Signature Breeze",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
